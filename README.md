@@ -187,13 +187,27 @@ All quadruped animals share `Quadruped_Skeleton.uasset` with 77 bones. This mean
 
 ---
 
-## Contributing
+## Contributing — We need you!
 
-Found something new? Want to add a tool or document a game system? Contributions are welcome!
+This is a community project. The technical pipeline is ready — now we need talented people to help bring this game back to life.
 
-- Open an issue to discuss your findings
-- Submit a PR with documentation or tools
+### What we're looking for
+
+| Role | What you'd do | Skills needed |
+|------|--------------|---------------|
+| **3D Artists** | Create new prehistoric animals using the shared 77-bone skeleton | Blender, modeling, rigging |
+| **Texture Artists** | Create animal skins, environment textures | Texturing, Substance Painter, GIMP |
+| **Animators** | New animations for animals and hominids | Blender animation |
+| **Researchers** | Document more game systems, find new moddable values | Curiosity, hex editors |
+| **Tool Developers** | Build new modding tools, improve existing ones | Python, C#, Rust |
+| **Writers** | Improve documentation, write tutorials | Clear writing |
+
+### How to contribute
+
+- Open an issue to discuss your findings or ideas
+- Submit a PR with documentation, tools, or assets
 - Share your mods with the community
+- Just star the repo to show support!
 
 ---
 

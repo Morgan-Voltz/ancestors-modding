@@ -1,0 +1,32 @@
+# Build artifacts
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+*.spec
+*.egg-info/
+
+# Extracted game assets (never commit these)
+*.pak
+*.uasset
+*.uexp
+*.umap
+*.wem
+*.bnk
+*.psk
+*.psa
+*.tga
+*.bik
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary mod build files
+ancestors_mod/

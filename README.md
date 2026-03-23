@@ -12,14 +12,19 @@ Everything you need to start modding Ancestors is here — from understanding th
 
 ### Documentation
 
-| Document | Description |
-|----------|-------------|
-| [docs/ASSET_MAP.md](docs/ASSET_MAP.md) | Full map of all 18,105 game assets |
-| [docs/GAME_ARCHITECTURE.md](docs/GAME_ARCHITECTURE.md) | Technical architecture — CDS system, animal stats, evolution tree, module structure |
-| [docs/MODDING_PIPELINE.md](docs/MODDING_PIPELINE.md) | Step-by-step guide: extract → modify → repack → test |
-| [docs/PDB_ANALYSIS.md](docs/PDB_ANALYSIS.md) | 508 C++ source classes identified from debug symbols |
-| [docs/EXTRACTED_ASSETS.md](docs/EXTRACTED_ASSETS.md) | Inventory of all extracted 3D models, textures, and animations |
-| [docs/FINDINGS_LOG.md](docs/FINDINGS_LOG.md) | Research journal — what works, what doesn't, and why |
+| Document | Description | Audience |
+|----------|-------------|----------|
+| [docs/GETTING_STARTED.md](docs/GETTING_STARTED.md) | **Start here** — First mod in 15 minutes | Beginners |
+| [docs/ANIMAL_DATABASE.md](docs/ANIMAL_DATABASE.md) | All 14 species — stats, files, bones, animations | All modders |
+| [docs/EVOLUTION_GUIDE.md](docs/EVOLUTION_GUIDE.md) | Neural evolution tree — 17 branches, conditions, structure | All modders |
+| [docs/MODDING_PIPELINE.md](docs/MODDING_PIPELINE.md) | Step-by-step guide: extract → modify → repack → test | All modders |
+| [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) | Common problems and solutions | All modders |
+| [docs/ASSET_MAP.md](docs/ASSET_MAP.md) | Full map of all 18,105 game assets | Advanced |
+| [docs/GAME_ARCHITECTURE.md](docs/GAME_ARCHITECTURE.md) | Technical architecture — CDS system, module structure | Advanced |
+| [docs/PDB_ANALYSIS.md](docs/PDB_ANALYSIS.md) | 508 C++ source classes identified from debug symbols | Advanced |
+| [docs/EXTRACTED_ASSETS.md](docs/EXTRACTED_ASSETS.md) | Inventory of all extracted 3D models, textures, animations | 3D artists |
+| [docs/FINDINGS_LOG.md](docs/FINDINGS_LOG.md) | Research journal — what works, what doesn't, and why | Contributors |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | How to contribute to this project | Contributors |
 
 ### Tools
 
